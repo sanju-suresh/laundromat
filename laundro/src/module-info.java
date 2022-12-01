@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sanju
+ *
+ */
+module laundro {
+}
